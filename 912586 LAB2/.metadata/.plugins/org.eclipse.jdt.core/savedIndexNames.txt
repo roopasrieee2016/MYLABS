@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\NISSI\Desktop\java training\LAB2\.metadata\.plugins\org.eclipse.jdt.core
+2445519266.index
+1826075537.index
